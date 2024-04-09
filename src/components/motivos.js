@@ -44,7 +44,7 @@ export default function Motivos() {
             </ul>
 
             <a
-              href="#"
+              href="#contato"
               className="inline-flex items-center justify-center px-5 py-3 text-base font-semibold text-center bg-blue-600  border  rounded-lg focus:ring-4  text-white border-blue-700 hover:bg-blue-700 focus:ring-blue-800"
             >
               Entre em contato agora!

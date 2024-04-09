@@ -24,6 +24,7 @@ export default function Footer() {
                   <li className="mb-4">
                     <a
                       href="https://www.linkedin.com/in/ricardobalbuquerque/"
+                      target="_blank"
                       className="hover:underline "
                     >
                       LinkedIn
@@ -32,6 +33,7 @@ export default function Footer() {
                   <li>
                     <a
                       href="https://www.instagram.com/ricardobalbuquerque/"
+                      target="_blank"
                       className="hover:underline"
                     >
                       Instagram
@@ -45,12 +47,20 @@ export default function Footer() {
                 </h2>
                 <ul className="text-gray-600 dark:text-gray-400">
                   <li className="mb-4">
-                    <a href="#" className="hover:underline">
+                    <a
+                      href="/politicas"
+                      target="_blank"
+                      className="hover:underline"
+                    >
                       Políticas de Privacidade
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="hover:underline">
+                    <a
+                      href="/termos"
+                      target="_blank"
+                      className="hover:underline"
+                    >
                       Termos &amp; Condições
                     </a>
                   </li>

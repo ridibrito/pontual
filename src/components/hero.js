@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <>
-      <section className=" h-[600px] lg:bg-[url('/hero2.png')] bg-[url('/quadrada.png')]  bg-cover 2xl:bg-contain bg-no-repeat xl:bg-top  w-full">
+      <section className=" h-[600px] lg:bg-[url('/hero2.png')] bg-[url('/quadrada.png')] 2xl:bg-[url('/hero2.png')] bg-cover  bg-no-repeat xl:bg-top  w-full">
         <div
           id="top"
           className="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12"

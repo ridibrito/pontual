@@ -4,7 +4,7 @@ import Logos from "./logos";
 export default function Motivos() {
   return (
     <>
-      <section className=" lg:h-[600px] lg:bg-[url('/empresa.png')]   bg-cover 2xl:bg-contain bg-no-repeat xl:bg-top  w-full bg-gradient-to-t from-blue-950">
+      <section className=" lg:h-[600px] lg:bg-[url('/empresa.png')]   bg-cover bg-no-repeat xl:bg-top  w-full bg-gradient-to-t from-blue-950">
         <div className="grid max-w-screen-xl  py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
           <Image
             src="/empresa300.png"

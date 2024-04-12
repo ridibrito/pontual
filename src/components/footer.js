@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Footer() {
   return (
@@ -6,15 +7,17 @@ export default function Footer() {
       <footer className="p-4 bg-white sm:p-6 w-screen dark:bg-gray-800">
         <div className="mx-auto max-w-screen-xl">
           <div className="md:flex md:justify-between">
-            <div className="mb-6 md:mb-0">
-              <Image
-                src="/logo.png"
-                className="mr-3 h-8"
-                alt="ricardo Logo"
-                width={100}
-                height={100}
-              />
-            </div>
+            <Link href="/">
+              <div className="mb-6 md:mb-0">
+                <Image
+                  src="/logo.png"
+                  className="mr-3 h-8"
+                  alt="ricardo Logo"
+                  width={100}
+                  height={100}
+                />
+              </div>
+            </Link>
             <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
               <div>
                 <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">

@@ -6,7 +6,7 @@ export default function Hero() {
           id="top"
           className="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12"
         >
-          <div className="w-3/5 place-self-center lg:col-span-7 mt-12 -ml-16 lg:ml-0">
+          <div className="w-3/5 lg:w-full place-self-center lg:col-span-7 mt-12 -ml-28 lg:ml-0">
             <h3 className="text-blue-600 font-bold">
               Diagnóstico personalizado
             </h3>

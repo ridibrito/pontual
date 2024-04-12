@@ -38,8 +38,8 @@ export default function Termos() {
             propriedade dos materiais; ou
           </li>
           <li>
-            transferir os materiais para outra pessoa ou 'espelhe' os materiais
-            em qualquer outro servidor.
+            transferir os materiais para outra pessoa ou espelhe os materiais em
+            qualquer outro servidor.
           </li>
         </div>
         <p className="px-12 mt-4">
@@ -54,8 +54,8 @@ export default function Termos() {
         </h1>
         <div className="px-12 mt-4 ml-12">
           <li>
-            Os materiais no site da Pontual Planos de saúde são fornecidos 'como
-            estão'. Pontual Planos de saúde não oferece garantias, expressas ou
+            Os materiais no site da Pontual Planos de saúde são fornecidos como
+            estão. Pontual Planos de saúde não oferece garantias, expressas ou
             implícitas, e, por este meio, isenta e nega todas as outras
             garantias, incluindo, sem limitação, garantias implícitas ou
             condições de comercialização, adequação a um fim específico ou não

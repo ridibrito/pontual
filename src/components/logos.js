@@ -28,11 +28,17 @@ export default function Logos() {
             <p className="flex justify-center items-center">
               <Image src="/porto.png" alt="porto" width="150" height="100" />
             </p>
-            <p className="flex justify-center items-center">
-              <Image src="/unimed.png" alt="unimed" width="150" height="100" />
-            </p>
+
             <p className="flex justify-center items-center">
               <Image src="/mag.png" alt="mag" width="150" height="100" />
+            </p>
+            <p className="flex justify-center items-center">
+              <Image
+                src="/anadem_logo.png"
+                alt="mag"
+                width="150"
+                height="100"
+              />
             </p>
           </div>
         </div>
